@@ -4,3 +4,6 @@ __pycache__/
 *.sqlite
 .DS_Store
 retail_sales_dataset.csv
+data/
+graphs/
+models/
